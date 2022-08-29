@@ -1,0 +1,23 @@
+a {
+  color:black;
+  text-decoration: none;
+}
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+h2,p,ul{
+  text-align:center;
+}
+li{
+  font-size: 18px;
+  display:inline-block;
+  padding:4px;
+  border:2px ridge;
+}
+iframe{
+  border:5px outset;
+  width:700px;
+  padding:10px;
+  margin: auto;
+}
